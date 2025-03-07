@@ -5,5 +5,9 @@ Na primeiro dia de Aula da disciplina, utilizamos para conhecer o professor da d
 Após essa conversa, seguimos realizando uma atividade dinâmica na turma, formamos uma equipe de quatro alunos, sendo os membros de nossa equipe: Eduardo Garcia, Vitor Garcia, Arthur Hydeki e Rafael Ouverney,  essa que seria a equipe para todo o ano letivo. Na sequência, seguimos respondendo um questionário de 11 questões onde optamos em reunir nosso grupo e analisar questão por questão e apontar nossas opniões sobre o assunto discutido. Pensamos que fazer desta forma, seria mais enriquecedora pois poderiamos compartilhar mais informações entre os membros do grupo. Ao final, o professor fez um bate papo com a turma de forma dinânmica sobre o questionário, os alunos davam suas poniões obre as questões e o professor complementava os assuntos, assim aumentando o aprendizado adquirido durante a aula.
 
 Avaliação individual: A
+
 Avaliação do grupo: A
 
+Link do docs com o questionário:
+
+https://docs.google.com/document/d/1oLlPTRlQz8kREcFs7WoHo2ZQ_kDH1IxB3JKzFNRQk9k/edit?usp=sharing
