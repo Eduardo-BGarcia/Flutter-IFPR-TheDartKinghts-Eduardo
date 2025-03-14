@@ -13,3 +13,18 @@ Avaliação do grupo: A
 Link do docs com o questionário:
 
 https://docs.google.com/document/d/1oLlPTRlQz8kREcFs7WoHo2ZQ_kDH1IxB3JKzFNRQk9k/edit?usp=sharing
+
+---
+
+Data: 13/03/2025
+
+Durante a aula foi iniciado o aprendizado sobre Dart, Flutter, sobre esse assunto conhecemos os conceitos basicos, de como operar. Depois disto, seguimos falando sobre boas práticas, como por exemplo utilizar o tipo de retorno void sempre. Também que "var" é uma variavel de inferência, será a IDE que irá interpretar qual tipo ele será. Que ID não é dinamico, sendo qu ena medida que você o definir ele não poderá mais ser mudado enquanto que dynamic esse sim poder ser alterado após sua declaração.
+
+Depois discutimos sobre erros de compilação e de execução, na compilação ela aponta antes de ser executado, já a de execução irá apontr apenas depois de ser executada, uma aponta antes e o ultimo só depois.
+Interpolação, exemplo:  print('O seu nome é $resposta'); Em dart por padrão qualquer variavel não pode ser nulo, isso ocorre desde de 2009 (Salvo nulo);
+
+Extensões para baixarmn no pc do IF:
+Dart (syntax highlighting only),
+Dart
+
+Avaliação individual: C
