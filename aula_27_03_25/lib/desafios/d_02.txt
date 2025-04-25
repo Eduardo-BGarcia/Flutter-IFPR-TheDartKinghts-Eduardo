@@ -1,0 +1,49 @@
+Enunciado: Crie um objeto de PedidoCompra com as seguintes condições:
+
+O Fornecedor deve ter um endereço completo (incluindo Cidade, Estado e País).
+
+O Produto deve possuir detalhes como Tipo, Categoria e Unidade de Medida.
+
+Implemente funções anônimas para:
+
+Calcular o valor do frete com base na distância (simulada) e quantidade.
+
+Realizar o pagamento, que deve validar o pedido e registrar a data do pagamento.
+
+Dica: Estruture as associações de forma a refletir uma cadeia de valor completa e encadeada.
+
+
+var pedidoCompra = PedidoCompra(
+  fornecedor: Fornecedor(
+    nome: 'Joséfino Magalhães",
+    cnpj: "XXXXXXXXXXXXXX",
+    endereco: Endereco(
+      rua: "Rua das dores"
+      numero: "223",
+      cidade: Cidade(
+        nome: 'Cidade X',
+        estado: Estado(
+          nome: 'Estado X',
+          sigla: 'EX',
+          pais: Pais(
+            nome: "Pais",
+          ),
+        ),
+      ),
+    ),
+  ),
+  produto: Produto(
+    nome: "Apontadores com Reservatório Artesanais",
+    tipo: TipoProduto(
+      nome: 'Apontadores',
+    ),
+    categoria: Categoria(
+      nome: "Artigos para Escritório",
+    ),
+    valorUnitario: 5.80,
+    unidadeDeMedida: UnidadeDeMedida.unidade,
+  ),
+  quantidade: 20,
+  calcularFrete: (double distanciaEmKm, double valorPorKm) => distanciaEmKm * valorPorKm;
+  realizarPagamento: (double valorPagamento) => print("Pagamento no valor de ${valorPagamento} recebido");
+);
